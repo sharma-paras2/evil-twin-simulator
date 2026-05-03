@@ -22,3 +22,14 @@ Install dependencies: pip install flask scapy rich
 Run main program: python main.py
 
 Open captive portal (if hosted): http://127.0.0.1:8080
+
+Screenshots
+
+Attack Simulation
+![Simulation](screenshots/simulation.png)
+
+Captive Portal
+![Portal](screenshots/portal.png)
+
+Captured Credentials
+![Logs](screenshots/logs.png)
