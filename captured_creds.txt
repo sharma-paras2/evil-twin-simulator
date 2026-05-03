@@ -1,3 +1,0 @@
-[2026-05-02 21:34:36] IP: 127.0.0.1 | User: paras | Pass: paras
-[2026-05-02 21:35:12] IP: 127.0.0.1 | User: paras | Pass: paras
-[2026-05-02 21:35:38] IP: 127.0.0.1 | User: attacker  | Pass: hacker

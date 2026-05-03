@@ -1,4 +1,3 @@
-echo "__pycache__/" > .gitignore
-echo "venv/" >> .gitignore
-echo "captured_creds.txt" >> .gitignore
-echo "*.save" >> .gitignore
+__pycache__/
+*.save
+captured_creds.txt
